@@ -1,0 +1,46 @@
+F:\Resolver Related\cent auth\cent auth\bin\Debug\cent auth.exe.config
+F:\Resolver Related\cent auth\cent auth\bin\Debug\cent auth.exe
+F:\Resolver Related\cent auth\cent auth\bin\Debug\cent auth.pdb
+F:\Resolver Related\cent auth\cent auth\bin\Debug\Newtonsoft.Json.dll
+F:\Resolver Related\cent auth\cent auth\bin\Debug\Newtonsoft.Json.xml
+F:\Resolver Related\cent auth\cent auth\obj\Debug\cent auth.csprojResolveAssemblyReference.cache
+F:\Resolver Related\cent auth\cent auth\obj\Debug\cent_auth.Login.resources
+F:\Resolver Related\cent auth\cent auth\obj\Debug\cent_auth.Properties.Resources.resources
+F:\Resolver Related\cent auth\cent auth\obj\Debug\cent_auth.Register.resources
+F:\Resolver Related\cent auth\cent auth\obj\Debug\cent auth.csproj.GenerateResource.Cache
+F:\Resolver Related\cent auth\cent auth\obj\Debug\cent auth.exe
+F:\Resolver Related\cent auth\cent auth\obj\Debug\cent auth.pdb
+F:\Resolver Related\cent auth\cent auth\obj\Debug\cent_auth.Main.resources
+C:\Users\jake1\Desktop\cent auth\cent auth\bin\Debug\cent auth.exe.config
+C:\Users\jake1\Desktop\cent auth\cent auth\bin\Debug\cent auth.exe
+C:\Users\jake1\Desktop\cent auth\cent auth\bin\Debug\cent auth.pdb
+C:\Users\jake1\Desktop\cent auth\cent auth\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jake1\Desktop\cent auth\cent auth\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jake1\Desktop\cent auth\cent auth\obj\Debug\cent auth.csprojAssemblyReference.cache
+C:\Users\jake1\Desktop\cent auth\cent auth\obj\Debug\cent_auth.Login.resources
+C:\Users\jake1\Desktop\cent auth\cent auth\obj\Debug\cent_auth.Main.resources
+C:\Users\jake1\Desktop\cent auth\cent auth\obj\Debug\cent_auth.Properties.Resources.resources
+C:\Users\jake1\Desktop\cent auth\cent auth\obj\Debug\cent_auth.Register.resources
+C:\Users\jake1\Desktop\cent auth\cent auth\obj\Debug\cent auth.csproj.GenerateResource.cache
+C:\Users\jake1\Desktop\cent auth\cent auth\obj\Debug\cent auth.csproj.CoreCompileInputs.cache
+C:\Users\jake1\Desktop\cent auth\cent auth\obj\Debug\cent auth.csproj.CopyComplete
+C:\Users\jake1\Desktop\cent auth\cent auth\obj\Debug\cent auth.exe
+C:\Users\jake1\Desktop\cent auth\cent auth\obj\Debug\cent auth.pdb
+D:\Auth\cent auth\bin\Debug\cent auth.exe.config
+D:\Auth\cent auth\obj\Debug\cent auth.exe
+D:\Auth\cent auth\obj\Debug\cent auth.pdb
+C:\Users\jake1\Desktop\Centos Auth\Auth\cent auth\bin\Debug\cent auth.exe.config
+C:\Users\jake1\Desktop\Centos Auth\Auth\cent auth\bin\Debug\cent auth.exe
+C:\Users\jake1\Desktop\Centos Auth\Auth\cent auth\bin\Debug\cent auth.pdb
+C:\Users\jake1\Desktop\Centos Auth\Auth\cent auth\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jake1\Desktop\Centos Auth\Auth\cent auth\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jake1\Desktop\Centos Auth\Auth\cent auth\obj\Debug\cent auth.csprojAssemblyReference.cache
+C:\Users\jake1\Desktop\Centos Auth\Auth\cent auth\obj\Debug\cent_auth.Login.resources
+C:\Users\jake1\Desktop\Centos Auth\Auth\cent auth\obj\Debug\cent_auth.Main.resources
+C:\Users\jake1\Desktop\Centos Auth\Auth\cent auth\obj\Debug\cent_auth.Properties.Resources.resources
+C:\Users\jake1\Desktop\Centos Auth\Auth\cent auth\obj\Debug\cent_auth.Register.resources
+C:\Users\jake1\Desktop\Centos Auth\Auth\cent auth\obj\Debug\cent auth.csproj.GenerateResource.cache
+C:\Users\jake1\Desktop\Centos Auth\Auth\cent auth\obj\Debug\cent auth.csproj.CoreCompileInputs.cache
+C:\Users\jake1\Desktop\Centos Auth\Auth\cent auth\obj\Debug\cent auth.csproj.CopyComplete
+C:\Users\jake1\Desktop\Centos Auth\Auth\cent auth\obj\Debug\cent auth.exe
+C:\Users\jake1\Desktop\Centos Auth\Auth\cent auth\obj\Debug\cent auth.pdb

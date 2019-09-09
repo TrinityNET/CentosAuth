@@ -1,0 +1,15 @@
+C:\Users\jake1\Desktop\Centos Auth\Auth\CentosAuth\bin\Debug\cent auth.exe.config
+C:\Users\jake1\Desktop\Centos Auth\Auth\CentosAuth\bin\Debug\cent auth.exe
+C:\Users\jake1\Desktop\Centos Auth\Auth\CentosAuth\bin\Debug\cent auth.pdb
+C:\Users\jake1\Desktop\Centos Auth\Auth\CentosAuth\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jake1\Desktop\Centos Auth\Auth\CentosAuth\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jake1\Desktop\Centos Auth\Auth\CentosAuth\obj\Debug\CentosAuth.csprojAssemblyReference.cache
+C:\Users\jake1\Desktop\Centos Auth\Auth\CentosAuth\obj\Debug\cent_auth.Login.resources
+C:\Users\jake1\Desktop\Centos Auth\Auth\CentosAuth\obj\Debug\cent_auth.Main.resources
+C:\Users\jake1\Desktop\Centos Auth\Auth\CentosAuth\obj\Debug\cent_auth.Properties.Resources.resources
+C:\Users\jake1\Desktop\Centos Auth\Auth\CentosAuth\obj\Debug\cent_auth.Register.resources
+C:\Users\jake1\Desktop\Centos Auth\Auth\CentosAuth\obj\Debug\CentosAuth.csproj.GenerateResource.cache
+C:\Users\jake1\Desktop\Centos Auth\Auth\CentosAuth\obj\Debug\CentosAuth.csproj.CoreCompileInputs.cache
+C:\Users\jake1\Desktop\Centos Auth\Auth\CentosAuth\obj\Debug\CentosAuth.csproj.CopyComplete
+C:\Users\jake1\Desktop\Centos Auth\Auth\CentosAuth\obj\Debug\cent auth.exe
+C:\Users\jake1\Desktop\Centos Auth\Auth\CentosAuth\obj\Debug\cent auth.pdb
