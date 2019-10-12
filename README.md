@@ -8,4 +8,4 @@ Features:
 - Level/ranking system
 - Web-based management panel
 
-Created by Centos#3363 | Developer of https://trinityseal.me
+Created by Centos#1337 | Developer of https://trinityseal.me
